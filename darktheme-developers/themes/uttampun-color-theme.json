@@ -1,10 +1,17 @@
 {
 	"name": "uttampun",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#202124",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#202124",
+		"sideBar.border": "#22272e",
+		"activityBar.background": "#202124",
+		"tab.inactiveBackground": "#202124",
+		"tab.inactiveForeground": "#82AAFF",
+		"sideBar.foreground": "#66a7a7"
+
 	},
 	"tokenColors": [
 		{
