@@ -1,3 +1,14 @@
-To run the extension
+# **Dark Theme Developers Extension**
 
-cd darktheme-developers this will open new window of extension then press f5 you see your code change
+To run the extension, follow these steps:
+
+1. Open your terminal and navigate to the extension directory:
+
+    ```bash
+    cd darktheme-developers
+    ```
+
+2. This will open a new window of the extension.
+
+3. Press `F5` to see your code changes in action.
+
