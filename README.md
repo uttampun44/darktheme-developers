@@ -5,7 +5,7 @@ To run the extension, follow these steps:
 1. Open your terminal and navigate to the extension directory:
 
     ```bash
-    cd darktheme-developers
+    code darktheme-developers
     ```
 
 2. This will open a new window of the extension.
