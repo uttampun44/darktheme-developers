@@ -12,3 +12,5 @@ To run the extension, follow these steps:
 
 3. Press `F5` to see your code changes in action.
 
+4. Install Yeoman and VS Code Extension Generator 
+
