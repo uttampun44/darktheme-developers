@@ -7,11 +7,17 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBar.background": "#202124",
 		"sideBar.border": "#22272e",
+		"sideBar.foreground": "#66a7a7",
+		"sideBarSectionHeader.background": "#2d333b",
 		"activityBar.background": "#202124",
+		"activityBar.foreground": "#fff",
 		"tab.inactiveBackground": "#202124",
-		"tab.inactiveForeground": "#82AAFF",
-		"sideBar.foreground": "#66a7a7"
-
+		"tab.inactiveForeground": "#84a4e9",
+		"scrollbarSlider.background": "#2d333b",
+		"scrollbarSlider.activeBackground": "#2a2b2b",
+		"scrollbarSlider.hoverBackground": "#2a2b2b",
+        "statusBar.background": "#373e47",
+		"statusBar.border": "#202124"
 	},
 	"tokenColors": [
 		{
@@ -32,7 +38,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#FF5370"
 			}
 		},
 		{
@@ -195,7 +201,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#84a4e9"
 			}
 		},
 		{
